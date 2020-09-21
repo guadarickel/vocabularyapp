@@ -1,0 +1,17 @@
+body {
+  background: #edeff2;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+header {
+    background: #574DFF;
+    margin-top: 20px;
+    padding: 20px;
+}
